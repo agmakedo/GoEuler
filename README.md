@@ -1,4 +1,4 @@
 # GoEuler
 
-My attempt to solve every Project Euler question, using threads, regardless of how unecessary
+As a Go learning exercise, trying to solve Project Euler problems using threads, regardless of how unecessary
 https://projecteuler.net/
